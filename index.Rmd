@@ -1,0 +1,112 @@
+---
+title: "Critical Time for Weed Control in Crops"
+subtitle: "Candidate for the Weed Biology and IWM position at McGill University"
+author: 
+    - "Dr. Maxwel Coura Oliveira (he/him/his)"
+date: 'March 28, 2022'
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+
+
+
+```{r include=FALSE}
+library(tidyverse)
+library(leaflet)
+library(leaflet.providers)
+library(leaflet.extras)
+library(icons)
+library(tidyUSDA)
+library(plotly)
+# to read https://www150.statcan.gc.ca/n1/pub/95-640-x/2016001/article/14804-eng.htm
+# https://www.thecanadianencyclopedia.ca/en/article/agriculture-in-canada#:~:text=Among%20Canada's%20top%20agricultural%20products,agricultural%20products%20in%20the%20world.
+```
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+#https://www.mcgill.ca/visual-identity/visual-identity-guide#:~:text=McGill%20red%20is%20CMYK%200,B47%20or%20Hexadecimal%20value%20%23ed1b2f.
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#ed1b2f",
+  title_slide_background_color= "#FFF193",
+  background_color = "#F4F4F4",
+  secondary_color = "#333333",
+  inverse_header_color = "#FFF193"
+)
+```
+
+
+```{r meta, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_general(
+    description = "Oliveira's seminar at McGill University",
+    generator = "xaringan and remark.js"
+  ) %>% 
+  meta_name("github-repo" = "maxwel/talks") %>% 
+  meta_social(
+    title = "From field biology to modeling, turning data into smart weed management",
+    url = "https://arizona-talk.netlify.app/",
+    image = "https://arizona-talk.netlify.app/images/social-card.png",
+    image_alt = "",
+    og_type = "website",
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@maxwelco"
+    ) %>% 
+   include_meta()
+```
+
+
+```{r features, include=FALSE, warning=FALSE}
+xaringanExtra::use_search(show_icon = TRUE,
+                          position = "top-left")
+xaringanExtra::use_webcam()
+#xaringanExtra::use_freezeframe()
+xaringanExtra::use_tile_view() # use letter O
+xaringanExtra::use_share_again()
+xaringanExtra::use_scribble() # use letter S
+xaringanExtra::use_fit_screen()
+xaringanExtra::use_broadcast() # use P
+```
+
+
+
+
+background-image: url(https://source.unsplash.com/hB3Dc62wc6s)
+background-position: right
+background-size: contain
+
+
+## Outline
+
+
+- About me
+
+- Research experiences
+
+- Oliveira's lab at McGill University
+
+
+
+
+.footnote[Image: Juan Rojas/Unsplash]
