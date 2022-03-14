@@ -100,13 +100,76 @@ background-size: contain
 ## Outline
 
 
-- About me
+- Definition
 
 - Research experiences
 
-- Oliveira's lab at McGill University
+- Data analyses
 
 
 
 
 .footnote[Image: Juan Rojas/Unsplash]
+
+
+---
+
+## Integrated Weed Management
+
+
+> An IWM (Integrated Weed Management) program involves a combination of various methods (cultural, mechanical, biological, genetic, and chemical) for effective and economical weed control ([Swanton and Weise 1991](https://www.jstor.org/stable/pdf/3987055.pdf?casa_token=bj6U2iSHE3AAAAAA:Sdo5kj1zA-MzQBPmGFUOHhHD4_EPC7KIG3u_7qmB4DmU9vrnfJXhS7bHMLOyz-W3-tdhk50CgaCgzYQH51s1VwXKGbaHRtM2-6DC377gYQy-Oea87ra3))
+
+<center>
+<img src="images/iwm.png" width="400px"/>
+</center>
+
+---
+
+
+##Weed management 
+
+
+Heavily based on herbicides...
+
+<center>
+<img src="images/imw_meme.jpeg" width="800px"/>
+</center>
+
+
+
+---
+
+## Critical Time for Weed Control
+
+Period in the crop growth cycle during which weeds must be controlled to prevent crop yield losses (Zimdahl 1988).
+
+
+
+---
+
+
+
+---
+
+## Determination of CTWC
+
+
+.pull-left[
+<img src="images/ctwc.png" width="400px"/>
+]
+
+.pull-right[
+- **A**: Weedy curve (––; descending line)  
+
+
+- **B**: Weed-free curve (- - -; ascending line)  
+
+
+- **C**: The value of the x-axis that corresponds to the 95% relative yield
+or an acceptable yield loss (AYL) of 5% is determined for both curves and related to crop growth stage (CGS).
+
+> The CPWC is then defined as the time between the two crop growth stages (CGSx to CGSy) and represents the length of weed control required to protect the crop yield from more than a 5% yield loss.
+
+.footnote[Source: Knezevic and Datta, 2015]
+
+]
