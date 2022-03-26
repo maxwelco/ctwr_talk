@@ -66,8 +66,8 @@ meta() %>%
   meta_name("github-repo" = "maxwel/talks") %>% 
   meta_social(
     title = "Critical Weed-Free Periods in Crops",
-    url = "https://arizona-talk.netlify.app/",
-    image = "https://arizona-talk.netlify.app/images/social-card.png",
+    url = "https://mcgill-talk2.netlify.app/",
+#    image = "https://arizona-talk.netlify.app/images/social-card.png",
     image_alt = "",
     og_type = "website",
     twitter_card_type = "summary_large_image",
@@ -225,8 +225,16 @@ exclude: true
 
 .footnote[Source: [Knezevic et al. 2002](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1407&context=agronomyfacpub)]
 
+---
+
+## Critical Weed-Free Periods
+
+#### History 
 
 
+.center[<img src="images/pre_herbicides.png" width="600px"/>]
+
+.footnote[Image: Ribeiro et al., U of Wisconsin-Madison]
 
 ---
 
@@ -265,9 +273,6 @@ Heavily based on herbicides...
 
 
 ---
-
-
-
 
 ## Assumptions and Limitations 
 
