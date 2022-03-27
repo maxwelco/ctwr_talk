@@ -311,8 +311,9 @@ Heavily based on herbicides...
 .pull-right[
 
 
+.center[<img src="https://source.unsplash.com/peBIF9jpwio" width="600px"/>]
 
-
+.footnote[Image: Steve Harvey/Unsplash]
 
 ]
 
