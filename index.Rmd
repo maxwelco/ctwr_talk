@@ -136,7 +136,7 @@ background-size: contain
 
 ## Crop-weed competition
 
-- Competition for water, soil nutrients, light and etc
+- Competition for water, soil nutrients, light, etc
 
 .center[<img src="images/competition.jpeg" width="700px"/>]
 
@@ -701,7 +701,7 @@ background-size: contain
 
 ---
 
-## Critical Weed-Free Periods in Soybean
+## Critical Weed-Free Periods 
 
 #### Zero weed tolerance
 
